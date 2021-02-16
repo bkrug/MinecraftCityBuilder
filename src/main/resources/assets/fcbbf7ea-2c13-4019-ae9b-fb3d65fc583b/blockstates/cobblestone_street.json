@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "fcbbf7ea-2c13-4019-ae9b-fb3d65fc583b:block/cobblestone_street",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "fcbbf7ea-2c13-4019-ae9b-fb3d65fc583b:block/cobblestone_street"
+    },
+    "facing=south": {
+      "model": "fcbbf7ea-2c13-4019-ae9b-fb3d65fc583b:block/cobblestone_street",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "fcbbf7ea-2c13-4019-ae9b-fb3d65fc583b:block/cobblestone_street",
+      "y": 180
+    }
+  }
+}

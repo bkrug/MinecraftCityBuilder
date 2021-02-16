@@ -1,0 +1,19 @@
+{
+    "parent": "block/cube",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [ 0, 135, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.40, 0.40, 0.40 ]
+        }
+    },
+    "textures": {
+        "particle": "fcbbf7ea-2c13-4019-ae9b-fb3d65fc583b:block/cobblestone_street_bottom", 
+    	"up": "fcbbf7ea-2c13-4019-ae9b-fb3d65fc583b:block/cobblestone_street_top",
+    	"north": "fcbbf7ea-2c13-4019-ae9b-fb3d65fc583b:block/cobblestone_street_front",
+    	"east": "fcbbf7ea-2c13-4019-ae9b-fb3d65fc583b:block/cobblestone_street_side",
+        "south": "fcbbf7ea-2c13-4019-ae9b-fb3d65fc583b:block/cobblestone_street_back",
+    	"west": "fcbbf7ea-2c13-4019-ae9b-fb3d65fc583b:block/cobblestone_street_bottom",
+    	"down": "fcbbf7ea-2c13-4019-ae9b-fb3d65fc583b:block/cobblestone_street_bottom"
+    }
+}

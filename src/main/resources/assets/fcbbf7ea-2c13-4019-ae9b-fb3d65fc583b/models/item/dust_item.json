@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "fcbbf7ea-2c13-4019-ae9b-fb3d65fc583b:item/dust_item"
+     }
+}
