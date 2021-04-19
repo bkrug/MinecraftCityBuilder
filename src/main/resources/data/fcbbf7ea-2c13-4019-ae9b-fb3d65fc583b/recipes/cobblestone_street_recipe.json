@@ -1,0 +1,19 @@
+{ 
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "AAA",
+    "A A",
+    "AAA"
+  ],
+  "key": {
+    "A":
+    {
+      "tag": "forge:gems/diamond"
+    }
+  },
+  "result": {
+    "item": "fcbbf7ea-2c13-4019-ae9b-fb3d65fc583b:cobblestone_street",
+    "count": 8
+  }
+}
