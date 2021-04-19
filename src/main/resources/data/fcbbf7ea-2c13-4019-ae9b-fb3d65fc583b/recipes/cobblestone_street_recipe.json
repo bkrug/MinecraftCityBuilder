@@ -2,14 +2,18 @@
   "type": "minecraft:crafting_shaped",
   "pattern":
   [
-    "AAA",
-    "A A",
-    "AAA"
+    "sss",
+    "sws",
+    "sss"
   ],
   "key": {
-    "A":
+    "s":
     {
-      "tag": "forge:gems/diamond"
+      "item": "minecraft:cobblestone"
+    },
+    "w":
+    {
+      "item": "minecraft:white_dye"
     }
   },
   "result": {
